@@ -1,0 +1,18 @@
+# --- Third-party data: obtained from MVTec, never redistributed here --------
+Dataset/
+
+# --- Produced by a run ------------------------------------------------------
+Results/
+*.pt
+*.ckpt
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+myenv/
+
+# --- OS / editor -----------------------------------------------------------
+.DS_Store
+.vscode/
